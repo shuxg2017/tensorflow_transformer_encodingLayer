@@ -6,7 +6,7 @@
 - Note: there are 2 classes, the codes of **EncoderLayers** and **EncoderModel** are the same, **BUT**
    - EncoderLayers inherits from tf.keras.layers.Layer
    - EncoderModel inherits from tf.keras.Model
-- I made the following graphs to show how to build your own encoding layer. You can follow along the code with these graphs.<br>
+- I made the following graphs to show how to build your own encoding layer. You can follow along the [code](https://github.com/shuxg2017/tensorflow_transformer_encodingLayer/blob/master/encoders/transformer_encoder.py) with [these graphs](https://github.com/shuxg2017/tensorflow_transformer_encodingLayer/tree/master/multi_head_attention_example).<br>
 **(Good Luck! :P)**
 <hr>
 
