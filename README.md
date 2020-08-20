@@ -13,7 +13,8 @@
 ### MultiHeadAttention Mechanism (MHA)
 
 ![MHA](https://github.com/shuxg2017/transformer_encoder_package/blob/master/multi_head_attention_example/mha.PNG)<br>
-**I forgot to put attention weights in the tf.nn.softmax().**
+**I forgot to put attention weights in the tf.nn.softmax().**<br>
+**"z" is the context matrix and it needs to be transposed and reshaped.**
 ![QKV](https://github.com/shuxg2017/transformer_encoder_package/blob/master/multi_head_attention_example/mha_qkv_op.PNG)
 
 <hr>
