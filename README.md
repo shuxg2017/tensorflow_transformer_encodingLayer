@@ -6,7 +6,7 @@
 5. Note: there are 2 classes, the codes of EncoderLayers and EncoderModel are the same, **BUT**
    - EncoderLayers inherits from tf.keras.layers.Layer
    - EncoderModel inherits from tf.keras.Model
-6. I made the following graphs to show how to build your own encoding layer. You can follow along the code with these graphs.
+6. I made the following graphs to show how to build your own encoding layer. You can follow along the code with these graphs.<br>
 **(Good Luck! :P)**
 <hr>
 
