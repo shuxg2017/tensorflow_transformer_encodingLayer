@@ -12,7 +12,8 @@
 
 ### MultiHeadAttention Mechanism (MHA)
 
-![MHA](https://github.com/shuxg2017/transformer_encoder_package/blob/master/multi_head_attention_example/mha.PNG)
+![MHA](https://github.com/shuxg2017/transformer_encoder_package/blob/master/multi_head_attention_example/mha.PNG)<br>
+**I forgot to put attention weights in the tf.nn.softmax().**
 ![QKV](https://github.com/shuxg2017/transformer_encoder_package/blob/master/multi_head_attention_example/mha_qkv_op.PNG)
 
 <hr>
